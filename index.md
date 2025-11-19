@@ -6,18 +6,16 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # Welcome to SCIMLab - Smart Construction and Intelligent Maintenance Lab (智能建造与智慧运维实验室)
 
+  Welcome to SCIMLab, the forefront hub of innovation in intelligent construction and smart operation & maintenance! We are a dedicated research laboratory committed to revolutionizing the built environment through advanced **digitalization, informatization, and AI-driven technologies**.
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  欢迎您莅临SCIMLab智能建造与智慧运维实验室！作为引领行业创新的先锋平台，我们致力于通过**数字化、信息化和智能化技术**，重塑建筑与设施运维的未来，推动建造产业效率提升与可持续发展。
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
+  At SCIMLab, we pioneer cutting-edge solutions to enhance construction efficiency, optimize asset lifecycle management, and promote sustainable development. Our interdisciplinary team integrates **digital twins, IoT, BIM, LLM, Robotics, and other emerging technologies** to deliver transformative outcomes for the AECO (Architecture, Engineering, Construction, and Operations) industry.
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+  在SCIMLab，我们以科技为引擎，融合**数字孪生、物联网、建筑信息模型、大模型、机器人等前沿技术**，为建筑与基础设施全生命周期提供创新解决方案。
+
 footer: true
 permalink: /
 ---
