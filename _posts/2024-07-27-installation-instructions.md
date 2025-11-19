@@ -2,7 +2,7 @@
 layout: post
 title: Installing Awesome Jekyll Theme!
 image: "https://picsum.photos/700/300"
-category: Jekyll
+category: Research Article
 author: Me
 ---
 

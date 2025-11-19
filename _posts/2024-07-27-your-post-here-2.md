@@ -2,8 +2,8 @@
 layout: post
 title: Lorem markdownum causa finita rector cura uterque
 image: "https://picsum.photos/500/300"
-category: Lorem Ipsum
-author: Me
+category: Research Article
+author: Dr. Onion
 ---
 
 Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat

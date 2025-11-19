@@ -18,7 +18,7 @@ main_content: >
 
   欢迎来到智能建造与智慧运维实验室！作为建筑业创新的先锋平台，我们致力于通过**数字化、信息化和智能化技术**，重塑建筑与设施运维的未来，推动建造产业效率提升与可持续发展。
 
-footer: false
+footer: true
 permalink: /
 ---
 ## SCIMLab Introduction 实验室介绍
